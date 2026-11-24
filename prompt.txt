@@ -1,0 +1,3 @@
+Build a make.fun One-Liner Marathon entry: a Python script that writes one deadpan one-liner about Grandad's snoring (172 chars, inside the 1-280 gate) exactly, with no trailing newline, to /output/entry.txt, plus a README from the competition template, an MIT LICENSE, and this prompt file.
+The winning line, picked by a blind 6-way tournament (5-0) against a deadpan stand-up judge brief: "The funeral director said Grandad died peacefully in his sleep, which was generous, because he spent forty years snoring like a chainsaw arguing with a lawnmower in church."
+Verify locally by running the script and diffing the output byte-for-byte against the line.
